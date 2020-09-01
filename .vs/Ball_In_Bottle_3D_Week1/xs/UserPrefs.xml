@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{04A0C3A3-F0EC-F45A-AE72-9D90D1E9842E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ballSounds.cs">
+    <Files>
+      <File FileName="Assets/ballSounds.cs" Line="10" Column="5" />
+      <File FileName="Assets/BallCollisionSound.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
